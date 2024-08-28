@@ -1,0 +1,2 @@
+Ceci est le contenu du feature1.txt
+
