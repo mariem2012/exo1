@@ -1,2 +1,2 @@
-Ceci est le contenu du feature1.txt
+Ceci  est la modification du contenu du feature1.txt sur feature1
 
